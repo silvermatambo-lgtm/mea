@@ -1,0 +1,10 @@
+{
+  "framework": null,
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/((?!sw.js|icon.svg|manifest.webmanifest).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
