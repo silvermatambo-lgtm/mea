@@ -1,0 +1,17 @@
+{
+  "name": "Tourism Current — Mbango Eco Adventure",
+  "short_name": "Tourism Current",
+  "description": "Real tourism. Real learning. Real futures.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f7fb",
+  "theme_color": "#062642",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
